@@ -1,2 +1,2 @@
-[{"id":1,"host":"s1.skidrowrp.samp.itcloud.io","connect":"s1.skidrowrp.samp.itcloud.io:7777","port":7777,"test":false},
-{"id":2,"host":"s2.skidrowrp.samp.itcloud.io","connect":"s2.skidrowrp.samp.itcloud.io:7777","port":7777,"test":false}]
+[{"id":1,"host":"164.132.201.89","connect":"164.132.201.89:1731","port":1731,"test":false},
+{"id":2,"host":"164.132.201.89","connect":"164.132.201.89:1731","port":1731,"test":false}]
